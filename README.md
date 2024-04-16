@@ -1,6 +1,6 @@
 # Hi!
 
-I’m Ryan, a serial tinkerer, [Linux user], and [longtime][fractal1]
+I’m June, a serial tinkerer, [Linux user], and [longtime][fractal1]
 [enthusiast][fractal2] [of][fractal3] [fractals][fractal4].
 
 [Linux user]: https://github.com/ray-kast/zrc
